@@ -4,6 +4,8 @@ public class Main {
 
       System.out.println("Its my firs push");
 
+      int ro = 5;
+
 
 
 
